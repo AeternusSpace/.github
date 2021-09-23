@@ -1,4 +1,4 @@
-![Aeternus](aeternusbanner.png)
+![Aeternus](./aeternusbanner.png)
 
 *Organization readme under construction.*
 
